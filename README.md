@@ -1,7 +1,12 @@
-# Hi, I'm Yadriel Pereyra!
-- Aspiring Software Engineer
-- Focused on Java, React, Python
-- Passionate about building clean, scalable software.
+# Hi, I’m Yadriel Pereyra
 
-## Connect with me:
-- GitHub: https://github.com/YadrielPereyra
+Aspiring Software Engineer | Portfolio in Progress
+
+- Building a full-stack developer portfolio from scratch
+- Completing certifications from Coursera & edX (Google, Meta, CS50)
+- Projects in Python, Front-End, and DevOps incoming
+- Currently learning and documenting everything here
+
+**Check out my portfolio:** [yadrielpereyra.github.io/yadriel-pereyra-portfolio](https://yadrielpereyra.github.io/yadriel-pereyra-portfolio)
+
+**GitHub is my proof of progress—watch it grow.**
