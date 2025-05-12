@@ -1,4 +1,7 @@
-# Hi, I’m Yadriel Pereyra
+<img src="https://raw.githubusercontent.com/YadrielPereyra/YadrielPereyra/main/profile-pic.png" width="150" style="border-radius: 50%;"/>
+
+# Hi, I'm Yadriel Pereyra!
+Aspiring developer passionate about building useful tools and learning every day. Hi, I’m Yadriel Pereyra
 
 Aspiring Software Engineer | Portfolio in Progress
 
