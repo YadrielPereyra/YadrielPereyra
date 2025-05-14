@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YadrielPereyra/YadrielPereyra/main/profile-pic.png" width="150" style="border-radius: 50%;" alt="Yadriel Pereyra">
-</p>
-
+  
 <h1 align="center">Hi, I'm Yadriel Pereyra 👋</h1>
 <h3 align="center">Aspiring Software Engineer | Self-Taught | Project-Focused</h3>
 
